@@ -71,7 +71,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%">
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Levi-Chinecherem&label=Profile%20views&color=0e75b6&style=flat" alt="levi-chinecherem" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=0xSemantic&label=Profile%20views&color=0e75b6&style=flat" alt="0xSemantic" /> </p>
 
 
 
@@ -95,6 +95,11 @@
 
 </div>
 
+## 📊 **GitHub Analytics**
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xSemantic&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSemantic&layout=compact&theme=radical" />
+</p>
 
 <!--📏LINE-->
 <p align="center">
@@ -474,6 +479,73 @@ graph TB
 - **Carbon Markets**: Verra standards, carbon calculation methodologies, credit tokenization
 - **AI Governance**: Ethical AI, regulatory compliance, transparent AI systems
 - **Blockchain Economics**: Tokenomics, decentralized governance, incentive mechanisms
+
+---
+
+## 🌱 **Hobbies & Personal Pursuits**
+
+<div align="center">
+
+![Farming Dreams](https://img.shields.io/badge/Modern_Farming_Enthusiast-4CAF50?style=for-the-badge&logo=leaf&logoColor=white)
+![Food Lover](https://img.shields.io/badge/Nigerian_Cuisine_Expert-FF6B6B?style=for-the-badge&logo=cooking&logoColor=white)
+![Language Learner](https://img.shields.io/badge/Spanish_Learner_%F0%9F%87%AA%F0%9F%87%B8-009688?style=for-the-badge&logo=duolingo&logoColor=white)
+![Idea Catalyst](https://img.shields.io/badge/Idea_Collaborator-9C27B0?style=for-the-badge&logo=lightbulb&logoColor=white)
+
+</div>
+
+### **🌿 Farming & Agriculture Vision**
+While I architect digital systems by day, my heart equally belongs to the earth. I dream of revolutionizing agriculture through technology:
+
+- **Modern Farming Aspirations**: Planning to establish a tech-driven agricultural enterprise that combines traditional wisdom with cutting-edge innovation
+- **Sustainable Agriculture**: Passionate about organic farming, vertical farming, and sustainable food production methods
+- **Future Vision**: Building bridges between my tech expertise and agricultural innovation to solve food security challenges
+
+### **🧠 Creative Collaboration**
+I thrive in environments where ideas are born and nurtured:
+
+- **Idea Incubation**: Love being in rooms where visions are shared and collaborative innovation happens
+- **Thought Partnership**: Enjoy helping others shape their ideas into actionable plans and solutions
+- **Cross-Pollination**: Bringing insights from tech, agriculture, and sustainability to spark unique innovations
+
+### **🎵 Cultural & Culinary Passions**
+Beyond code and systems, I find joy in life's simple pleasures:
+
+- **Music Enthusiast**: Appreciating diverse musical genres that inspire creativity and focus
+- **Language Explorer**: Gradually learning Spanish through immersive listening - building that mental muscle for authentic language acquisition
+- **Nigerian Cuisine Expert**: Mastering traditional dishes and putting my own creative spin on family recipes
+  - *Specialties*: Perfecting jollof rice, egusi soup, and other West African classics exactly to my taste
+- **Food Culture**: Believing that great food brings people together and fuels great ideas
+
+### **🌅 Balanced Lifestyle**
+- **Tranquil Spaces**: Valuing peace, quiet environments, and the creative energy of indoor spaces
+- **Mindful Living**: Balancing intense problem-solving with cooking, music, and agricultural dreams
+- **Future Harmony**: Envisioning a life where technology and agriculture coexist in beautiful synergy
+
+```mermaid
+graph TB
+    A[My Passions] --> B[Technology & Innovation]
+    A --> C[Agriculture & Farming]
+    A --> D[Food & Culture]
+    A --> E[Music & Languages]
+    
+    B --> F[Building Systems]
+    B --> G[Solving Complex Problems]
+    
+    C --> H[Modern Farming Dreams]
+    C --> I[Sustainable Agriculture]
+    
+    D --> J[Nigerian Cuisine]
+    D --> K[Culinary Creativity]
+    
+    E --> L[Language Learning]
+    E --> M[Musical Inspiration]
+    
+    style A fill:#FF6B6B
+    style C fill:#4CAF50
+    style D fill:#FF9800
+```
+
+**Life Philosophy**: *"Great code solves problems, but great food, music, and sustainable farming nourish the soul. I'm building a future where technology and tradition work hand-in-hand."*
 
 ---
 

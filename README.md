@@ -109,6 +109,7 @@
 
 
 ### **🚀 LOLA OS - Sovereign On-Chain AI Agent Operating System**
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/0xSemantic/lola-os)
 <div align="center">
 
 ![Rust Python](https://img.shields.io/badge/Rust_&_Python_Framework-Expert-000000?style=for-the-flat&logo=rust&logoColor=white)
@@ -149,6 +150,8 @@ graph TB
 ---
 
 ### **🌍 UN-Level ESG Standardization Platform**
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/0xSemantic/esg_engine)
+
 <div align="center">
 
 ![Multi-Agent AI](https://img.shields.io/badge/Multi_Agent_AI_Architecture-Expert-00D4FF?style=for-the-flat&logo=robot&logoColor=white)
